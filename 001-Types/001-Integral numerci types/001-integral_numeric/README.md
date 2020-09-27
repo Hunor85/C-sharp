@@ -9,7 +9,7 @@
 * ulong
 
 ### For example:
-```
+```c#
 // Min and Max Value for SByte
 Console.WriteLine("---------- SByte ----------");
 sbyte sbyteMinValue = sbyte.MinValue;
