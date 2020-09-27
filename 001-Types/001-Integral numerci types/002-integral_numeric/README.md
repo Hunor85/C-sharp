@@ -9,7 +9,7 @@
 * ulong
 
 ### For example:
-```
+```c-sharp
 // Checking if sbyteMinValue_a equals to sbyteMinValue_b
 Console.WriteLine("---------- SByte Min Value Check ----------");
 sbyte sbyteMinValue_a = sbyte.MinValue;
