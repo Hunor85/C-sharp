@@ -1,4 +1,4 @@
-## Displaying the minimum and maxmimum value for the following integral numeric types:
+## Displaying the minimum and maximum value for the following integral numeric types:
 * sbyte
 * byte
 * short
