@@ -1,1 +1,1 @@
-![Integral literal](./docs/integral_literal.pdf)
+![Integral literal](integral_literal.pdf)
