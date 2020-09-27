@@ -1,1 +1,1 @@
-![Integral literal](https://docs.google.com/document/d/1Rq47sWkmmvp2VoABrz_BTlEyCzHlr4Srmwd2pAA6ixc/edit)
+![Integer literal](https://github.com/Hunor85/C-sharp/blob/master/001-Types/001-Integral%20numerci%20types/004-integer_literal/docs/integer_literal.png)
