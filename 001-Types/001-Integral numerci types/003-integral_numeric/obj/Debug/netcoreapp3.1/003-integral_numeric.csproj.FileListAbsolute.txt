@@ -1,0 +1,12 @@
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/003-integral_numeric/obj/Debug/netcoreapp3.1/003-integral_numeric.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/003-integral_numeric/obj/Debug/netcoreapp3.1/003-integral_numeric.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/003-integral_numeric/obj/Debug/netcoreapp3.1/003-integral_numeric.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/003-integral_numeric/obj/Debug/netcoreapp3.1/003-integral_numeric.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/003-integral_numeric/bin/Debug/netcoreapp3.1/003-integral_numeric.deps.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/003-integral_numeric/bin/Debug/netcoreapp3.1/003-integral_numeric.runtimeconfig.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/003-integral_numeric/bin/Debug/netcoreapp3.1/003-integral_numeric.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/003-integral_numeric/bin/Debug/netcoreapp3.1/003-integral_numeric.dll
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/003-integral_numeric/bin/Debug/netcoreapp3.1/003-integral_numeric.pdb
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/003-integral_numeric/obj/Debug/netcoreapp3.1/003-integral_numeric.dll
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/003-integral_numeric/obj/Debug/netcoreapp3.1/003-integral_numeric.pdb
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/003-integral_numeric/obj/Debug/netcoreapp3.1/003-integral_numeric.genruntimeconfig.cache
