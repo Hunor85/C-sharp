@@ -8,7 +8,7 @@
 * long
 * ulong
 
-### For example:
+### Code example:
 ```c#
 // Checking if sbyteMinValue_a equals to sbyteMinValue_b
 Console.WriteLine("---------- SByte Min Value Check ----------");
@@ -26,3 +26,6 @@ else
 }
 Console.WriteLine("\n");
 ```
+
+### Integral numeric types with minimum and maximum values:
+![integral numeric types](https://github.com/Hunor85/C-sharp/blob/master/001-Types/001-Integral%20numerci%20types/002-integral_numeric/docs/integral%20numeric%20types.png)
