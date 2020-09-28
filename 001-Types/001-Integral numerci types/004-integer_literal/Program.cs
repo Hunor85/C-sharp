@@ -61,7 +61,7 @@ namespace _004_integer_literal
 
             // UShort minimum value
             var ushortMinLiteral = 0;
-            Console.WriteLine("---------- Short Minimum Value ----------");
+            Console.WriteLine("---------- UShort Minimum Value ----------");
             Console.WriteLine("The minimum value for ushortMinLiteral is {0} ", ushortMinLiteral);
             Console.WriteLine("The type for ushortMinLiteral is {0} ", ushortMinLiteral.GetTypeCode());
 
@@ -144,6 +144,14 @@ namespace _004_integer_literal
             Console.WriteLine("---------- UInt32.MaxValue + 1 ----------");
             Console.WriteLine("The maximum value for uintMaxLiteralPlusOne is {0} ", uintMaxLiteralPlusOne);
             Console.WriteLine("The type for uintMaxLiteralPlusOne is {0} ", uintMaxLiteralPlusOne.GetTypeCode());
+
+            Console.WriteLine("\n");
+
+            // ULong maximum value
+            var ulongMaxLiteral2 = 11446744073709511615;
+            Console.WriteLine("---------- ULong Maximum Value ----------");
+            Console.WriteLine("The maximum value for ulongMaxLiteral2 is {0} ", ulongMaxLiteral2);
+            Console.WriteLine("The type for ulongMaxLiteral2 is {0} ", ulongMaxLiteral2.GetTypeCode());
 
             Console.WriteLine("\n");
         }
