@@ -8,7 +8,7 @@
 * long
 * ulong
 
-### For example:
+### Code example:
 ```c#
 // sbyte_min_max.cs
 // displaying minimum value of sbyte
@@ -27,3 +27,6 @@ switch (choice)
         break;
 
 ```
+
+### Integral numeric types with minimum and maximum values:
+![integral numeric tyoes](https://github.com/Hunor85/C-sharp/blob/master/001-Types/001-Integral%20numerci%20types/003-integral_numeric/docs/integral%20numeric%20types.png
