@@ -126,8 +126,8 @@ namespace _004_integer_literal
             // ULong minimum value
             var ulongMinLiteral = 0;
             Console.WriteLine("---------- ULong Minimum Value ----------");
-            Console.WriteLine("The minimum value for longMinLiteral is {0} ", longMinLiteral);
-            Console.WriteLine("The type for longMinLiteral is {0} ", longMinLiteral.GetTypeCode());
+            Console.WriteLine("The minimum value for ulongMinLiteral is {0} ", ulongMinLiteral);
+            Console.WriteLine("The type for ulongMinLiteral is {0} ", ulongMinLiteral.GetTypeCode());
 
             Console.WriteLine("\n");
 
