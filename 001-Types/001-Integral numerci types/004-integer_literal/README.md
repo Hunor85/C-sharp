@@ -10,4 +10,5 @@ The following table shows the types in which different literal values can be rep
 
 
 The following diagram gives a visual representation for literals without suffix with their corresponding types in which they can be represented:
+
 ![Integer literal 2](https://github.com/Hunor85/C-sharp/blob/master/001-Types/001-Integral%20numerci%20types/004-integer_literal/docs/integer%20literal%202.png)
