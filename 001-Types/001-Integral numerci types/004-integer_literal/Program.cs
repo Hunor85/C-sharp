@@ -154,6 +154,10 @@ namespace _004_integer_literal
             Console.WriteLine("The type for ulongMaxLiteral2 is {0} ", ulongMaxLiteral2.GetTypeCode());
 
             Console.WriteLine("\n");
+
+            var joo = -2147483648;
+            Console.WriteLine("---------- Int32 min value +1, -2147483649----------");
+            Console.WriteLine("The type for joo is {0} ", joo.GetTypeCode());
         }
     }
 }
