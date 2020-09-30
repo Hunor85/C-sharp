@@ -2,7 +2,7 @@
 
 Integer literals can be decimal without any prefix. For example:
 ```c#
-var decimalLiteral = 42; 
+var decimalLiteral = 42u; // U or u are both correct 
 ```
 If the literal is suffixed by U or u, its type is the first of the following types in which its value can be represented: uint, ulong.
 
