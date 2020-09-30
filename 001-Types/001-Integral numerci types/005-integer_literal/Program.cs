@@ -7,7 +7,7 @@ namespace _004_integer_literal
         /*
          * If the literal is suffixed by U or u, its type is the first of the following types 
          * in which its value can be represented: uint, ulong.
-         * For example: var decimalLiteral = 42;
+         * For example: var decimalLiteral = 42u;
          */
         static void Main(string[] args)
         {
