@@ -11,5 +11,5 @@ The following diagram gives a visual representation for literals without suffix 
 ![Integer literal](https://github.com/Hunor85/C-sharp/blob/master/001-Types/001-Integral%20numerci%20types/005-integer_literal/docs/inetger%20literal.png)
 
 For example:
-- if the literal is within -2,147,483,648 and -1 the type will be Int64
+- if the literal is within -9,223,372,036,854,775,808 and -1 the type will be Int64
 - if the literal is within 0 and 4,294,967,295 the type will be Int32
