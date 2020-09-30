@@ -12,4 +12,4 @@ The following diagram gives a visual representation for literals without suffix 
 
 For example:
 - if the literal is within -9,223,372,036,854,775,808 and -1 the type will be Int64
-- if the literal is within 0 and 4,294,967,295 the type will be Int32
+- if the literal is within 0 and 4,294,967,295 the type will be UInt32
