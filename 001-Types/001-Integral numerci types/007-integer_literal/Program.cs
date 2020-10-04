@@ -4,6 +4,9 @@ namespace _007_integer_literal
 {
     class Program
     {
+        /*
+         * If the literal is suffixed by UL, Ul, uL, ul, LU, Lu, lU, or lu, its type is ulong.
+        */
         static void Main(string[] args)
         {
            // SByte minimum value
