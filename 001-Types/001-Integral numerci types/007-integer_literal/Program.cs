@@ -103,7 +103,7 @@ namespace _007_integer_literal
             Console.WriteLine("\n");
 
             // Long minimum value
-            var longMinLiteral = -9223372036854775808UL; // "UL" or "ul" suffix CANNOT be used
+            var longMinLiteral = -9223372036854775808; // "UL" or "ul" suffix CANNOT be used
             Console.WriteLine("---------- Long Minimum Value ----------");
             Console.WriteLine("The minimum value for longMinLiteral is {0} ", longMinLiteral);
             Console.WriteLine("The type for longMinLiteral is {0} ", longMinLiteral.GetTypeCode());
@@ -149,6 +149,7 @@ namespace _007_integer_literal
             Console.WriteLine("The type for ulongMaxLiteral2 is {0} ", ulongMaxLiteral2.GetTypeCode());
 
             Console.WriteLine("\n");
+
         }
     }
 }
