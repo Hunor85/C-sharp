@@ -1,0 +1,12 @@
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/007-integer_literal/obj/Debug/netcoreapp3.1/007-integer_literal.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/007-integer_literal/obj/Debug/netcoreapp3.1/007-integer_literal.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/007-integer_literal/obj/Debug/netcoreapp3.1/007-integer_literal.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/007-integer_literal/obj/Debug/netcoreapp3.1/007-integer_literal.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/007-integer_literal/bin/Debug/netcoreapp3.1/007-integer_literal.deps.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/007-integer_literal/bin/Debug/netcoreapp3.1/007-integer_literal.runtimeconfig.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/007-integer_literal/bin/Debug/netcoreapp3.1/007-integer_literal.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/007-integer_literal/bin/Debug/netcoreapp3.1/007-integer_literal.dll
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/007-integer_literal/bin/Debug/netcoreapp3.1/007-integer_literal.pdb
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/007-integer_literal/obj/Debug/netcoreapp3.1/007-integer_literal.dll
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/007-integer_literal/obj/Debug/netcoreapp3.1/007-integer_literal.pdb
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/007-integer_literal/obj/Debug/netcoreapp3.1/007-integer_literal.genruntimeconfig.cache
