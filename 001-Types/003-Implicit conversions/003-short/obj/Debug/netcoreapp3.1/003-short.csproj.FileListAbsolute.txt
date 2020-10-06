@@ -1,0 +1,12 @@
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/003-short/bin/Debug/netcoreapp3.1/003-short.deps.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/003-short/bin/Debug/netcoreapp3.1/003-short.runtimeconfig.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/003-short/bin/Debug/netcoreapp3.1/003-short.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/003-short/bin/Debug/netcoreapp3.1/003-short.dll
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/003-short/bin/Debug/netcoreapp3.1/003-short.pdb
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/003-short/obj/Debug/netcoreapp3.1/003-short.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/003-short/obj/Debug/netcoreapp3.1/003-short.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/003-short/obj/Debug/netcoreapp3.1/003-short.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/003-short/obj/Debug/netcoreapp3.1/003-short.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/003-short/obj/Debug/netcoreapp3.1/003-short.dll
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/003-short/obj/Debug/netcoreapp3.1/003-short.pdb
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/003-short/obj/Debug/netcoreapp3.1/003-short.genruntimeconfig.cache
