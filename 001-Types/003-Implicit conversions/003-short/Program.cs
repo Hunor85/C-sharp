@@ -5,10 +5,10 @@ namespace _003_short
     class Program
     {
         /* 
-         * Implicit conversion 
-         * From short
-         * To int, long, float, double, or decimal
-         */
+        * Implicit conversion 
+        * From short
+        * To int, long, float, double, or decimal
+        */
         static void Main(string[] args)
         {
             // Min Value for Short
@@ -43,7 +43,7 @@ namespace _003_short
 
             // Max Value for SHort
             // Implicit conversion from Short to Long
-            Console.WriteLine("---------- SByte Max to Long ----------");
+            Console.WriteLine("---------- Short Max to Long ----------");
             short shortMaxValueD = short.MaxValue;
             long intValueD = shortMaxValueD;
             Console.WriteLine("The maximum value for Short: {0}", shortMaxValueD);
