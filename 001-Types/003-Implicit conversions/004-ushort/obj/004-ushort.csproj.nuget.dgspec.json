@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/001-integral_numeric/001-integral_numeric.csproj": {}
+    "/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/004-ushort/004-ushort.csproj": {}
   },
   "projects": {
-    "/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/001-integral_numeric/001-integral_numeric.csproj": {
+    "/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/004-ushort/004-ushort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/001-integral_numeric/001-integral_numeric.csproj",
-        "projectName": "001-integral_numeric",
-        "projectPath": "/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/001-integral_numeric/001-integral_numeric.csproj",
+        "projectUniqueName": "/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/004-ushort/004-ushort.csproj",
+        "projectName": "004-ushort",
+        "projectPath": "/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/004-ushort/004-ushort.csproj",
         "packagesPath": "/Users/hunorvadasz-perhat/.nuget/packages/",
-        "outputPath": "/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/001-Integral numerci types/001-integral_numeric/obj/",
+        "outputPath": "/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/004-ushort/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
