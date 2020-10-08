@@ -1,0 +1,12 @@
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/008-ulong/bin/Debug/netcoreapp3.1/008-ulong.deps.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/008-ulong/bin/Debug/netcoreapp3.1/008-ulong.runtimeconfig.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/008-ulong/bin/Debug/netcoreapp3.1/008-ulong.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/008-ulong/bin/Debug/netcoreapp3.1/008-ulong.dll
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/008-ulong/bin/Debug/netcoreapp3.1/008-ulong.pdb
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/008-ulong/obj/Debug/netcoreapp3.1/008-ulong.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/008-ulong/obj/Debug/netcoreapp3.1/008-ulong.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/008-ulong/obj/Debug/netcoreapp3.1/008-ulong.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/008-ulong/obj/Debug/netcoreapp3.1/008-ulong.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/008-ulong/obj/Debug/netcoreapp3.1/008-ulong.dll
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/008-ulong/obj/Debug/netcoreapp3.1/008-ulong.pdb
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/003-Implicit conversions/008-ulong/obj/Debug/netcoreapp3.1/008-ulong.genruntimeconfig.cache
