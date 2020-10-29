@@ -1,0 +1,152 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf610
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red18\green18\blue18;\red255\green255\blue255;\red18\green18\blue18;
+}
+{\*\expandedcolortbl;;\cssrgb\c9020\c9020\c9020;\cssrgb\c100000\c100000\c100000;\cssrgb\c9020\c9020\c9020;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww12600\viewh13600\viewkind0
+\deftab720
+\pard\pardeftab720\sl600\sa240\partightenfactor0
+
+\f0\b\fs48 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\ul \ulc2 Conditional logical OR operator ||\
+\pard\pardeftab720\sl600\sa240\partightenfactor0
+
+\fs36 \cf2 \ulnone https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/boolean-logical-operators
+\fs46\fsmilli23100 \cf2 \
+\pard\pardeftab720\sl600\sa240\partightenfactor0
+
+\fs36 \cf2 \ul Text from docs:
+\b0 \ulnone \
+\pard\pardeftab720\sl360\partightenfactor0
+
+\fs32 \cf4 \cb3 \outl0\strokewidth0 \strokec4 The conditional logical OR operator\'a0
+\f1\fs27\fsmilli13600 ||
+\f0\fs32 , also known as the "short-circuiting" logical OR operator, computes the logical OR of its operands. \
+\
+The result of\'a0
+\f1\fs27\fsmilli13600 x || y
+\f0\fs32 \'a0is\'a0
+\f1\fs27\fsmilli13600 true
+\f0\fs32 \'a0if either\'a0
+\f1\fs27\fsmilli13600 x
+\f0\fs32 \'a0or\'a0
+\f1\fs27\fsmilli13600 y
+\f0\fs32 \'a0evaluates to\'a0
+\f1\fs27\fsmilli13600 true
+\f0\fs32 . Otherwise, the result is\'a0
+\f1\fs27\fsmilli13600 false
+\f0\fs32 . If\'a0
+\f1\fs27\fsmilli13600 x
+\f0\fs32 \'a0evaluates to\'a0
+\f1\fs27\fsmilli13600 true
+\f0\fs32 ,\'a0
+\f1\fs27\fsmilli13600 y
+\f0\fs32 \'a0is not evaluated.\
+\
+In the following example, the right-hand operand of the\'a0
+\f1\fs27\fsmilli13600 ||
+\f0\fs32 \'a0operator is a method call, which isn't performed if the left-hand operand evaluates to\'a0
+\f1\fs27\fsmilli13600 true
+\f0\fs32 :\
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 \cb3 \outl0\strokewidth0 \
+\
+\
+
+\b\fs36 \ul Anki cards:
+\b0\fs32 \ulnone \
+\
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 \cb3 - The result of\'a0
+\f1\fs27\fsmilli13600 x || y
+\f0\fs32 \'a0is\'a0
+\f1\fs27\fsmilli13600 true
+\f0\fs32 \'a0if either\'a0
+\f1\fs27\fsmilli13600 x
+\f0\fs32 \'a0or\'a0
+\f1\fs27\fsmilli13600 y
+\f0\fs32 \'a0evaluates to\'a0
+\f1\fs27\fsmilli13600 true
+\f0\fs32 .\
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 \cb3 The result of\'a0
+\f1\fs27\fsmilli13600 x || y
+\f0\fs32 \'a0is\'a0
+\f1\fs27\fsmilli13600 ___
+\f0\fs32 \'a0if either\'a0
+\f1\fs27\fsmilli13600 x
+\f0\fs32 \'a0or\'a0
+\f1\fs27\fsmilli13600 y
+\f0\fs32 \'a0evaluates to\'a0
+\f1\fs27\fsmilli13600 true
+\f0\fs32 . true=>false, true\
+The result of\'a0
+\f1\fs27\fsmilli13600 x || y
+\f0\fs32 \'a0is\'a0
+\f1\fs27\fsmilli13600 true
+\f0\fs32 \'a0if ___\'a0
+\f1\fs27\fsmilli13600 x
+\f0\fs32 \'a0or\'a0
+\f1\fs27\fsmilli13600 y
+\f0\fs32 \'a0evaluates to\'a0
+\f1\fs27\fsmilli13600 true
+\f0\fs32 . either=>either, both\
+\
+- The result of\'a0
+\f1\fs27\fsmilli13600 x || y
+\f0\fs32 \'a0is\'a0
+\f1\fs27\fsmilli13600 false
+\f0\fs32 \'a0if both\'a0
+\f1\fs27\fsmilli13600 x
+\f0\fs32 \'a0and\'a0
+\f1\fs27\fsmilli13600 y
+\f0\fs32 \'a0evaluates to\'a0
+\f1\fs27\fsmilli13600 false
+\f0\fs32 .\
+The result of\'a0
+\f1\fs27\fsmilli13600 x || y
+\f0\fs32 \'a0is\'a0
+\f1\fs27\fsmilli13600 ___
+\f0\fs32 \'a0if both\'a0
+\f1\fs27\fsmilli13600 x
+\f0\fs32 \'a0and\'a0
+\f1\fs27\fsmilli13600 y
+\f0\fs32 \'a0evaluates to\'a0
+\f1\fs27\fsmilli13600 false
+\f0\fs32 . false=>true, false\
+The result of\'a0
+\f1\fs27\fsmilli13600 x || y
+\f0\fs32 \'a0is\'a0
+\f1\fs27\fsmilli13600 false
+\f0\fs32 \'a0if ___\'a0
+\f1\fs27\fsmilli13600 x
+\f0\fs32 \'a0and\'a0
+\f1\fs27\fsmilli13600 y
+\f0\fs32 \'a0evaluates to\'a0
+\f1\fs27\fsmilli13600 false
+\f0\fs32 . both=> both, either\
+\
+- Considering x || y. If x evaluates to true y is not evaluated.\
+Considering x || y. If x evaluates to ___ y is not evaluated. true=>true, false\
+Considering x || y. If x evaluates to true y is ___ evaluated. not=> always, not\
+\
+- Considering x || RightOperand(). If x evaluates to true right operand method is not evaluated.\
+Considering x || RightOperand(). If x evaluates to ___ right operand method is not evaluated. true=>false, true\
+Considering x || RightOperand(). If x evaluates to true right operand method is ___ evaluated. not=> always, not\
+\
+Done until here! To-do: write the code examples and put into Anki.\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+}
