@@ -1,0 +1,12 @@
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool004/bin/Debug/netcoreapp3.1/bool004.deps.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool004/bin/Debug/netcoreapp3.1/bool004.runtimeconfig.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool004/bin/Debug/netcoreapp3.1/bool004.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool004/bin/Debug/netcoreapp3.1/bool004.dll
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool004/bin/Debug/netcoreapp3.1/bool004.pdb
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool004/obj/Debug/netcoreapp3.1/bool004.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool004/obj/Debug/netcoreapp3.1/bool004.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool004/obj/Debug/netcoreapp3.1/bool004.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool004/obj/Debug/netcoreapp3.1/bool004.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool004/obj/Debug/netcoreapp3.1/bool004.dll
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool004/obj/Debug/netcoreapp3.1/bool004.pdb
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool004/obj/Debug/netcoreapp3.1/bool004.genruntimeconfig.cache
