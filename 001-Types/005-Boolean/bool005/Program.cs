@@ -29,6 +29,44 @@ namespace bool005
             Console.WriteLine(v4);
             
             Console.WriteLine("\n");
+
+            Console.WriteLine("------------------------------------------------");
+
+            bool RightOperandTrue()
+            {
+                Console.WriteLine("Second operand");
+                return true;
+            }
+
+            bool RightOperandFalse()
+            {
+                Console.WriteLine("Second operand");
+                return false;
+            }
+
+            // Output: True 
+            bool v5 = true || RightOperandTrue();
+            Console.WriteLine(v5);
+
+            Console.WriteLine("\n");
+
+            // Output: True
+            bool v6 = true || RightOperandTrue();
+            Console.WriteLine(v6);
+
+            Console.WriteLine("\n");
+
+            // Output: Second operand, True
+            bool v7 = false || RightOperandTrue();
+            Console.WriteLine(v7);
+
+            Console.WriteLine("\n");
+
+            // Output: Second operand, False
+            bool v8 = false || RightOperandFalse();
+            Console.WriteLine(v8);
+
+            Console.WriteLine("\n");
         }
     }
 }
