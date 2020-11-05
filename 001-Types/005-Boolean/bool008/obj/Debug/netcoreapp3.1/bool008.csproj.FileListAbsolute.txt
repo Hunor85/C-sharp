@@ -1,0 +1,12 @@
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool008/obj/Debug/netcoreapp3.1/bool008.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool008/obj/Debug/netcoreapp3.1/bool008.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool008/obj/Debug/netcoreapp3.1/bool008.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool008/obj/Debug/netcoreapp3.1/bool008.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool008/bin/Debug/netcoreapp3.1/bool008.deps.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool008/bin/Debug/netcoreapp3.1/bool008.runtimeconfig.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool008/bin/Debug/netcoreapp3.1/bool008.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool008/bin/Debug/netcoreapp3.1/bool008.dll
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool008/bin/Debug/netcoreapp3.1/bool008.pdb
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool008/obj/Debug/netcoreapp3.1/bool008.dll
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool008/obj/Debug/netcoreapp3.1/bool008.pdb
+/Users/hunorvadasz-perhat/Projects/C-sharp/001-Types/005-Boolean/bool008/obj/Debug/netcoreapp3.1/bool008.genruntimeconfig.cache
